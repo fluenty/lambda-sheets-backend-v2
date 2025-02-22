@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lambda-sheets-backend",
+  "private_key_id": "c799dadbac6f8484b9a3eab4ad86c6e778c22b51",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC69KjoNjCC9UqG\nVZKKFIjD2YPcvWFTlFMTaQ1b3aPAhj4mxEec0DdmHwUGzmlEHZGkllEculVWds3O\nkU6GgFIjvsuCi/msOqR432NwSe/098b+K/nmZk12sFU/7k3eghxYRxOA5NHQGZ3N\nI1NUg4qonYqD315jpHvT5WlHubukh67OcrQYYFw9UNO/BJFSCiBNXC9xpZ6mzwtt\nhx+birV1Lo/z94SqwRSv8gn4y6N9UdzwNgIqy/m390kkKpn4QnRTrDB72O74FLDQ\nBU38aJo5vnuHreZpg5qVJnCp2Y/IeUWS5yUzlHv5oOGbVKuwRAXcGZewmHRwHNgL\nkLczKxSLAgMBAAECggEASywYBHLRk76sbhJXX0T9bv51ilrtmO0xcEMT14Xpk36G\n3BCdGN0SAXJkk4WIhxZ6mtrEF5CGwsL3YuFDWUqcfHn5m27L/+f+fQmZkqtwHChK\n76VgELe+2wPw60lXLypS2l4N5gxbntjF/hd/qKJRrRXXfcnhSqB3F88NQ4VXgUJJ\n8YbBBeh3+RyHYL0Qn/M9Mm3qbshkoibQ9hZYlmnvSXhRTx8ClGQlHhTjMXg+ANy3\n2Lbo51nDSd/MkfxcPYJlRTwCFxqceW/totbl+eUey2+A342Z5KVfJ57t0muoCN4C\nHxfZDT/3KOhtBSWP6ke6LeC/s0YQhachEli7j/L/rQKBgQD4v9S4LSOypF5xWj83\nhipPek0DrrAr5c5KWJ1rKISjJOMF5H+ru0wYJl0l2I7b4m2c/qP2db4dkRh51R5p\nqLs2Hi0t5MJzrmt+FGKfH0oO9p15X0DVZk74ps4io83HwiwcLOCXjn/oqJI64Vnm\ndM4kl5umpINiwIKv2i12PQN3HQKBgQDAZ7lwCdzt0agzvZCcQB0HAJnqGODZSxq7\nBUThsE34DPIy+jbBlPiS1ohZ+k55uuUZCVSX8CcRjYfkUbSN06YDEFvJMGjzLYXd\nW0Ycw75HLOYG2r8iBVDlFvJ7/aDbC8Z5wO/pWM8mPqgSvq0G6mnJD+MNejY1U9bj\nEn3b0Z3hxwKBgEedUuzDcieYUuhnhxPBOKUxHMMWo/m/a6jT4l5bh/RARmwH4Qnc\nHohFY0PmGRsNEWnFlgb61wVEJLvOs7bPsTZfcbpoxeLwMFpYHBybsYKlVaj/13aY\nwdusimRGrJP6PyDNesunZwPgpFj3UB6dOkwmqdVMP9dKfVWLhtMntbuxAoGBAJQu\nDiHcZrr9sgYPI5VCx1hCPUeOW3TeI7sPRspuBs5X4hwimhMikQI9mQt6+/9CUfij\nN/RAL0aUcqkDyANGkl9ftODQmLNYRvWAuxGiKyQTzyBOTc98up2Eu8GERuMMQZI5\nZkuXawowTS8KjKV72XbQ9nPFwIP3itKcxjOKT4a3AoGBAJMxPx9MuJSWCBF7bQtD\nVM8hNznxRXXkphv119M0CrjGBW8dFNdNdVuoKta/70m1LJchMgpqOwNsmacsbflP\nZYq/hxrjG1v6+j4FIiYwc9IFqnm75+OFAe+EGjEeNKkMRl0IEqHxhbl2mzVqJlE5\nfJ3laiGm8tZgFWt37Mrn5zfV\n-----END PRIVATE KEY-----\n",
+  "client_email": "lambda-sheets-service-account@lambda-sheets-backend.iam.gserviceaccount.com",
+  "client_id": "109381507062092341093",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lambda-sheets-service-account%40lambda-sheets-backend.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
